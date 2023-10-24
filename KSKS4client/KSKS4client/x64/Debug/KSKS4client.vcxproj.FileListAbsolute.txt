@@ -1,0 +1,4 @@
+C:\Users\1\source\repos\KSKS4client\KSKS4client\x64\Debug\KSKS4client.vcxproj.AssemblyReference.cache
+C:\Users\1\source\repos\KSKS4client\KSKS4client\x64\Debug\KSKS4client.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\1\source\repos\KSKS4client\KSKS4client\x64\Debug\KSKS4client.MyForm.resources
+C:\Users\1\source\repos\KSKS4client\KSKS4client\x64\Debug\KSKS4client.vcxproj.GenerateResource.cache
